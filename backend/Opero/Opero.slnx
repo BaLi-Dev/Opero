@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Opero.Api/Opero.Api.csproj" />
+  <Project Path="Opero.Application/Opero.Application.csproj" />
+  <Project Path="Opero.Contracts/Opero.Contracts.csproj" />
+  <Project Path="Opero.Domain/Opero.Domain.csproj" />
+  <Project Path="Opero.Infrastructure/Opero.Infrastructure.csproj" />
+</Solution>

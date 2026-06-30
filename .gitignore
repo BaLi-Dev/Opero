@@ -1,0 +1,95 @@
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio cache/options
+.vs/
+.vscode/
+
+# Visual Studio user-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.sln.iml
+
+# Build Lock files
+packages.lock.json
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+*.nuget.props
+*.nuget.targets
+
+# NuGet v3's project.json files produces more ignorable files
+*.nuget.json
+project.lock.json
+project.assets.json
+
+# Rider
+.idea/
+*.swp
+*.swo
+*~
+
+# Test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+*.trx
+*.coverage
+*.coveragexml
+
+# Code coverage
+OpenCover/
+CodeCoverage/
+
+# Local user-specific settings
+appsettings.local.json
+appsettings.*.local.json
+secrets.json
+.env
+.env.local
+
+# OS-specific files
+Thumbs.db
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Application Insights
+ApplicationInsights.config
+
+# Backup & temp files
+*.bak
+*.tmp
+*.swp
+*~
+.#*
+
+# Node.js (if using npm/yarn for frontend)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python (if using Python tools)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Miscellaneous
+*.log
